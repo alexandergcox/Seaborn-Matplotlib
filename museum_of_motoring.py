@@ -1,11 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# ### LSE Data Analytics Online Career Accelerator
-# 
-# # DA201: Data Analytics Using Python
-
-# ## Demonstration: Museum of Motoring History case study
+# Museum of Motoring History case study
 
 # The Museum of Motoring History is preparing for an exhibition about vehicles from the 1970s. The curator wants to create an interactive exhibit for visitors to learn about the fuel efficiency of many popular cars. They have a data set of car fuel efficiency from 1970 to 1982 in which the fuel efficiency is measured in miles per gallon (MPG). A higher MPG means the car is more efficient. What visualisations could the exhibit include to engage visitors? This is where pointplots can be used as a replacement for bar charts.
 # 
