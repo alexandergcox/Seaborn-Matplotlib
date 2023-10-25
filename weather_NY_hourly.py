@@ -1,13 +1,6 @@
-#!/usr/bin/env python
-# coding: utf-8
+# Time-series plots with Seaborn (Python)
 
-# ### LSE Data Analytics Online Career Accelerator
-# 
-# # DA201: Data Analytics Using Python
-
-# ## Time-series plots with Seaborn (Python)
-
-# This Notebook accompanies the 'Time-series plots with Seaborn (Python)' demonstration video. In the video Dr Milena Tsvetkova, will illustrate how to create a time-series plot using Seaborn.
+# This Notebook accompanies the 'Time-series plots with Seaborn (Python)' 
 # 
 # Follow along with the demonstration to learn how to:
 # 
