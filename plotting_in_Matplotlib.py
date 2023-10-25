@@ -1,15 +1,7 @@
-#!/usr/bin/env python
-# coding: utf-8
+# Plotting in Matplotlib
 
-# ### LSE Data Analytics Online Career Accelerator 
-# 
-# # DA201:  Data Analytics with Python
-
-# ## Plotting in Matplotlib (tutorial video)
-
-# This file contains the code snippets that are introduced in the Plotting in Matplotlib video. 
-# Follow along with the demonstration to:
-# - create an plot
+# This file contains the code snippets to
+# - create a plot
 # - add lines to a plot
 # - create multiple plots in one figure
 # - change plot background colours.
