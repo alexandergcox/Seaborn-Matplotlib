@@ -5,7 +5,7 @@
 # 
 # # DA201:  Data Analytics with Python
 
-# ## Creating relational plots with Seaborn (tutorial video)
+# ## Creating relational plots with Seaborn 
 
 # This file contains the code snippets that are introduced in the Creating relational plots with Seaborn video. 
 # Follow along with the demonstration to:
