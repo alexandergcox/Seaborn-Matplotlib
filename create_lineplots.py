@@ -1,14 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
+# Create line and subplots
 
-# ### LSE Data Analytics Online Career Accelerator
-# 
-# # DA201: Data Analytics Using Python
-
-# ## Practical activity: Create line and subplots
-
-# **This is the solution to the activity.**
-# 
 # Canopy is a new boutique streaming company that is looking to create an app that provides recommendations based on the last movie you watched. As a part of their process, they want to review the data and gather enough information before they start making suggestions and recommendations to their clients. 
 # 
 # This analysis uses the `movies.csv` and `ott.xlsx` data sets. Based on the available information, in this activity you will:
