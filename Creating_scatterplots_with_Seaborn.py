@@ -1,14 +1,6 @@
-#!/usr/bin/env python
-# coding: utf-8
+# Creating scatterplots with Seaborn 
 
-# ### LSE Data Analytics Online Career Accelerator 
-# 
-# # DA201:  Data Analytics with Python
 
-# ## Creating scatterplots with Seaborn (tutorial video)
-
-# This file contains the code snippets that are introduced in the Creating scatterplots with Seaborn video. 
-# Follow along with the demonstration to:
 # - create a scatterplot with two variables
 # - create a scatterplot with three variables
 # - create a scatterplot with a regression line.
