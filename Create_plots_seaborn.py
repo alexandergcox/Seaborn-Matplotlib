@@ -1,11 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# ### LSE Data Analytics Online Career Accelerator
-# 
-# # DA201: Data Analytics Using Python
-
-# ## Practical activity: Create plots with Seaborn
+# Create plots with Seaborn
 
 # **This is the solution to the activity.**
 # 
