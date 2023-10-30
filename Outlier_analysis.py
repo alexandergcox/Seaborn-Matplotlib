@@ -1,11 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# ### LSE Data Analytics Online Career Accelerator
-# 
-# # DA201: Data Analytics Using Python
-
-# ## Practical activity: Outlier analysis
+# Outlier analysis
 
 # **This is the solution to the activity.**
 # 
