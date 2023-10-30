@@ -1,19 +1,9 @@
-#!/usr/bin/env python
-# coding: utf-8
+# Creating a countplot with Seaborn (tutorial video)
 
-# ### LSE Data Analytics Online Career Accelerator 
-# 
-# # DA201:  Data Analytics with Python
 
-# ## Creating a countplot with Seaborn (tutorial video)
-
-# This file contains the code snippets that are introduced in the Creating a countplot with Seaborn video. 
-# Follow along with the demonstration to:
 # - create a countplot
 # - display the plot bars horizontally
 # - add colour as a third variable.
-# 
-# Play and pause the video to follow along with the demonstration.
 
 # ### 1. Import libraries and create a DataFrame
 
