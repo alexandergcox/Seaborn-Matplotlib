@@ -1,19 +1,10 @@
-#!/usr/bin/env python
-# coding: utf-8
+# Creating boxplots with Seaborn (tutorial video)
 
-# ### LSE Data Analytics Online Career Accelerator 
-# 
-# # DA201:  Data Analytics with Python
 
-# ## Creating boxplots with Seaborn (tutorial video)
-
-# This file contains the code snippets that are introduced in the Creating boxplots with Seaborn video. 
-# Follow along with the demonstration to:
 # - create a boxplot using Seaborn
 # - create a boxplot with a third variable
 # - specify the order of variables in a boxplot.
-# 
-# Play and pause the video to follow along with the demonstration.
+
 
 # ### 1. Import libraries and create a DataFrame
 
