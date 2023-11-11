@@ -1,11 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# ### LSE Data Analytics Online Career Accelerator 
-# 
-# # DA201:  Data Analytics with Python
-
-# ## Creating histograms with Seaborn (tutorial video)
 
 # This file contains the code snippets that are introduced in the Creating histograms with Seaborn video. 
 # Follow along with the demonstration to:
